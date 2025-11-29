@@ -1,0 +1,5 @@
+{
+  "name": "CineTrack: Commentary Edition",
+  "description": "A movie tracking application specifically designed to catalog theatrical viewings and automatically check for home release commentary tracks using Gemini AI.",
+  "requestFramePermissions": []
+}
